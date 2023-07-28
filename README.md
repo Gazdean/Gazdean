@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Northcoders bootcamp August23
-Working on a career in software development
-JS HTML CSS
+Northcoders bootcamp August23 <br>
+Working on a career in software development<br>
+JS HTML CSS<br>
 <!--
 **Gazdean/Gazdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
